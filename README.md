@@ -1,4 +1,4 @@
 ## Labs Completed
 
-- [File Path Traversal](./file-path-traversal-README)
+- [File Path Traversal](./file-path-traversal/README.md)
 
